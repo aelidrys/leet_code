@@ -6,7 +6,7 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/17 10:01:23 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/01/28 12:38:48 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/03 10:54:55 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,6 +20,7 @@
 #include <fcntl.h>
 #include <wchar.h>
 #include <locale.h>
+#include <pthread.h>
 
 typedef struct ListNode{
 	int val;
