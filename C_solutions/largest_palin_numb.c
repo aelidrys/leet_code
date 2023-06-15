@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/30 11:09:56 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:01:32 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:24 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 typedef struct b_palindrom
 {

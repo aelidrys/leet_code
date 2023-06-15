@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/09 18:44:45 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:01:46 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:45 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 int removeElement(int* nums, int nsize, int val)
 {

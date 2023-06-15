@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/28 08:59:30 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:01:43 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:38 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 char    *prifixcpy(char *s1, char *s2, int j){
     int     a;

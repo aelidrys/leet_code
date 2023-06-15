@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/05 07:47:19 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:01:39 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:34 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
  typedef struct s_arry{
      int    len;

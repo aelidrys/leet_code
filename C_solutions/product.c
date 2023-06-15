@@ -1,7 +1,7 @@
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 int* productExceptSelf(int* nums, int size, int* rsize){
-	
+
 }
 
 int main()

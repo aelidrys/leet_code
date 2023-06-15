@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/22 08:24:01 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:00:14 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:01:54 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 ListN     *lst_new(int a)
 {

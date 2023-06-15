@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/24 08:30:36 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:00:22 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:05 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 int addDigits(int num){
     int res = 0;

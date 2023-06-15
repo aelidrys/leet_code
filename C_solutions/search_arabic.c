@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/17 12:19:51 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:02:00 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:55 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 #include <fcntl.h>
 
 int		a_search_arabic(wchar_t *p, wchar_t c)

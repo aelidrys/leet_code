@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/21 07:05:47 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:02:08 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:03:01 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize)
 {

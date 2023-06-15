@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/11 12:55:37 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:00:10 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:00 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 int     a_chek(int **tab, int j, int a, int b, int c, int d){
     int p[4];
     int x = 0;

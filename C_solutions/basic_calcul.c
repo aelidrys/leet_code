@@ -6,12 +6,12 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/20 13:54:45 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:00:31 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:12 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 size_t    sk_space(char *p)
 {

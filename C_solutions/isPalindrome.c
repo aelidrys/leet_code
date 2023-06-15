@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/21 06:47:46 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:00:43 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:21 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
- #include "../leetcode_problem.h"
+ #include "leetcode_problem.h"
 
  int     a_lent(int x)
 {

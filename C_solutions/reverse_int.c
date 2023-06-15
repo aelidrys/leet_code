@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/30 11:31:34 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:01:50 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:02:48 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 int reverse(int nb){
     long	a;

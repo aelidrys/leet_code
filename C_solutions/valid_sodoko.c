@@ -6,11 +6,11 @@
 /*   By: aelidrys <aelidrys@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/07 09:55:04 by aelidrys          #+#    #+#             */
-/*   Updated: 2023/06/03 11:02:22 by aelidrys         ###   ########.fr       */
+/*   Updated: 2023/06/08 09:03:10 by aelidrys         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../leetcode_problem.h"
+#include "leetcode_problem.h"
 
 char *copy_str1(char **s, int x)
 {
