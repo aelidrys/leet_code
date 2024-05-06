@@ -1,3 +1,3 @@
 # leet_code
 
-![leetcode-profile](https://leetcode.com/ayoubedark/)
+[leetcode-profile](https://leetcode.com/ayoubedark/)
